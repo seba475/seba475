@@ -24,5 +24,5 @@ Desarrollando proyectos con **Python**, **Django**, **Java**, **Assembly**, **C*
 ---
 
 ## 📫 Contacto
-[LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-p%C3%A9rez-81b139220/)
+[LinkedIn](https://www.linkedin.com/in/sebastiannperez/)
 
