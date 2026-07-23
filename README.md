@@ -1,7 +1,7 @@
 # 👋 Hola, soy Sebastián
 
 Estudiante de la Licenciatura en Sistemas en la Universidad Nacional de
-General Sarmiento (UNGS) desde 2024. Tengo aprobadas 12 de las 19 materias
+General Sarmiento (UNGS) desde 2024. Tengo aprobadas 14 de las 21 materias
 de la Tecnicatura en Informática, el título intermedio de la carrera.
 
 Programo principalmente en **Java**, orientado a objetos y diseño de sistemas.
